@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I enjoy working in DeFi & Quantitative trading environment using C#, Rust, Python
+
 <!--
 **farnyser/farnyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
